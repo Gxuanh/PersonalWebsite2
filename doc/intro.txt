@@ -1,0 +1,110 @@
+1. 我的中文姓名：
+   黃鳳萱
+
+2. 我的英文姓名：
+   Gxuanh
+
+3. 我目前的學校／科系／年級：
+   Harvard University／互動設計學系／大三
+
+4. 我想申請的升學或工作方向：
+
+升學方向：
+使用者體驗設計 UX、互動設計、數位媒體設計、HCI、人因工程、服務設計、創新科技設計
+
+求職方向：
+UI/UX 設計師、產品設計師、品牌體驗設計師、創意科技設計師、前端互動設計師、Design Lead
+
+5. 用一句話介紹我自己：
+
+Design for people, not screens.
+為人設計，而不只是為螢幕設計。
+
+6. 我的 3 個個人特色：
+
+* 能快速洞察使用者需求與潛在痛點
+* 兼具設計美感、商業思維與技術理解能力
+* 善於領導跨領域團隊完成高品質專案
+
+7. 我的 5 個主要技能：
+
+* Adobe Illustrator
+* Adobe Photoshop
+* Figma
+* UI/UX Design
+* User Research
+* Design System
+* Brand Identity Design
+* HTML / CSS / JavaScript
+* Creative Coding
+* Motion Design
+
+8. 我做過的 2～3 個作品：
+
+作品一：Moodly 情緒陪伴 App
+
+打造一款結合 AI 情緒分析與數位療癒體驗的心理健康平台。透過情緒追蹤、智慧陪伴與個人化內容推薦，成功提升使用者留存率與每日互動頻率。專案涵蓋使用者研究、產品策略、介面設計與原型驗證。
+
+作品二：CampusVerse 智慧校園互動平台
+
+設計結合 AR 導覽、即時資訊與社群互動的智慧校園系統。透過沉浸式體驗重新定義校園資訊服務模式，獲得校內創新專案評選第一名。
+
+作品三：Re:Cycle 永續品牌生態系
+
+建立完整永續品牌策略與視覺識別系統，包含品牌定位、產品包裝、數位行銷與互動體驗設計。作品曾於國際學生設計展展出，獲得業界導師高度評價。
+
+9. 我最想被別人看到的優點：
+
+* 能將創意轉化為具商業價值的產品
+* 擁有優秀的系統思考能力
+* 能獨立規劃並執行大型專案
+* 善於從使用者角度建立完整體驗
+* 具備快速學習與跨領域整合能力
+
+10. 我的學習經歷或工作經驗：
+
+* Harvard Design Innovation Lab 研究助理
+* 國際設計工作坊特邀學生代表
+* 校內跨領域創新專題主持人
+* UX Design Intern
+* 系學會品牌與視覺設計負責人
+* 接案設計經驗超過 50 件
+* 參與多場國際黑客松與設計競賽
+
+11. 我的得獎、證照或特殊成果：
+
+* Adobe ACA 國際認證
+* Google UX Design Professional Certificate
+* 金點新秀設計獎入圍
+* Red Dot Design Concept Award 入圍
+* International Student Design Challenge 金獎
+* 校級創新創業競賽第一名
+* 作品獲國際設計媒體專題報導
+* 個人作品集累積超過 100 萬次瀏覽
+
+12. 我的聯絡方式：
+
+Email：[gxuanh@example.com](mailto:gxuanh@example.com)
+
+GitHub：https://github.com/gxuanh
+
+LinkedIn：https://linkedin.com/in/gxuanh
+
+個人網站：https://gxuanh.github.io
+
+13. 我的個人照片：
+
+建議使用一張兼具專業感與親和力的半身照。
+
+風格可以是：
+極簡科技風、設計總監風格、國際設計論壇講者形象
+
+14. 我的履歷 PDF：
+
+gxuanh-resume.pdf
+
+15. 我喜歡的網站風格：
+
+創意互動風（結合沉浸式體驗與動態敘事）
+高端科技風（Apple 與 Tesla 發表會視覺語言）
+國際設計工作室風（Awwwards 等級作品集網站）
